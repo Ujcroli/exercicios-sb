@@ -8,6 +8,6 @@ public class ExerciciosSbApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ExerciciosSbApplication.class, args);
-		// teste
+		
 	}
 }
